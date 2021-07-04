@@ -69,8 +69,9 @@ Em meio às pesquisas, acabei descobrindo e chegando ao Front-End desde então b
 </div>
 <br>
 <br>
+
+   <p align="center"> Entre em contato comigo por aqui 👇🏾</p>
 <p align=center>
-   <p align="center"> Entre em contato por aqui 👇🏾</p>
    <a href="https://www.linkedin.com/in/dayanemendes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/daay.mendez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto: day.neisca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
