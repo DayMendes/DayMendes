@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/7nSIuEmcNKqFyOipPu/giphy.gif" width="30%" height="30%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </h2>
 Atualmente moro em Embu das artes/SP :round_pushpin:
-<br>Estou me capacitando pela <a href="https://www.alura.com/" target="_blank">Alura</a> e <a href="https://www.origamid.com/" target="_blank">Origamid</a> para me tornar uma Desenvolvedora Front-End :computer:	
+<br>Estou me capacitando pela <a href="https://www.alura.com.br/" target="_blank">Alura</a> e <a href="https://www.origamid.com/" target="_blank">Origamid</a> para me tornar uma Desenvolvedora Front-End :computer:	
 <h2> </h2>
 
 
