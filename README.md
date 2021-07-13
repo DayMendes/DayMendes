@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DayMendes&label=Profile%20views&color=0e75b6&style=flat" alt="DayMendes" /> </p>
+
 <h2>Hello world! :earth_africa:	
 <br>Eu sou a Dayane!👋🏾:purple_heart:
 <img align='right' src="https://media.giphy.com/media/7nSIuEmcNKqFyOipPu/giphy.gif" width="40%" height="40%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
@@ -77,6 +79,3 @@ Em meio às pesquisas, acabei descobrindo e chegando ao Front-End desde então b
    <a href = "mailto: day.neisca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <p/>
 
-
-<br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=DayMendes&label=Profile%20views&color=0e75b6&style=flat" alt="DayMendes" /> </p>
