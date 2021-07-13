@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DayMendes&label=Profile%20views&color=0e75b6&style=flat" alt="DayMendes" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DayMendes&label=Profile%20views&color=0e75b6&style=flat" alt="DayMendes" /> </p>
 
 <h2>Hello world! :earth_africa:	
 <br>Eu sou a Dayane!👋🏾:purple_heart:
