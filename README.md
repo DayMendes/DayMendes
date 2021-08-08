@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/7nSIuEmcNKqFyOipPu/giphy.gif" width="40%" height="40%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </h2>
 📍 Atualmente moro em Embu das artes/SP 🇧🇷
-<br>👩🏾‍💻 Estou me capacitando pela <a href="https://www.alura.com.br/" target="_blank">Alura</a> e <a href="https://www.origamid.com/" target="_blank">Origamid</a> para me tornar uma Desenvolvedora Front-End 	
+<br>👩🏾‍💻 Estudante de Sistemas para internet, estou me capacitando para me tornar uma Desenvolvedora Front-End.
 <h2> </h2>
 
 
